@@ -7,3 +7,4 @@ COPY . /var/www/html/
 # Expose port 80 to allow web traffic
 EXPOSE 80
 
+RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli
