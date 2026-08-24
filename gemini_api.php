@@ -1,6 +1,6 @@
 <?php
 
-$api_key = "   AQ.Ab8RN6JUWC2n_asPUomUYvKXU50Ssf-bLJBNXw-tUSJxj-bgKQ";
+$api_key = "       ";
 
 function askAI($question)
 {
